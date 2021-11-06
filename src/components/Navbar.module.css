@@ -1,0 +1,19 @@
+
+.nav{
+    padding: 20px 30px;
+    grid-area: n;
+    background-color: 	#DCDCDC;
+    margin-right: 10px;
+}
+
+.item{
+  font-size: 20px;
+  color:black;
+  /* color: white; */
+  /* -webkit-text-stroke: 1px black; */
+
+}
+
+.item.active{
+  color: gold;
+}
